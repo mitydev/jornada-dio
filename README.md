@@ -1,4 +1,6 @@
-# Jornada DIO - BootCamp Santander
+# Jornada DIO - BootCamp Santander :wave:
+
+
 
 Olá esse é meu primeiro repositório para a jornada do BootCamp Santander.
 
